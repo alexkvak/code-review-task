@@ -1,0 +1,1 @@
+export { getCachedUsers } from './cache';
